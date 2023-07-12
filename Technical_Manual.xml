@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <!--This comment from using unicode commit-->
 <!-- Authored by Arun --> 
+=======
+>>>>>>> c4f46c4 (Concise one file)
 <manual id="VANSON 40 TPD">
   <title>VANSON 40 TPD</title>
   <chapter id="Technical manual">
@@ -88,6 +91,7 @@ width="758">
             <tbody>
               <tr>
                 <td>
+<<<<<<< HEAD
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-5&quot;);">GENERALITIES</a></h4>
                 </td>
@@ -130,20 +134,93 @@ width="758">
                 <td>
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-17&quot;);">STARTING OF RO UNIT</a></h4>
+=======
+                  <h4>GENERALITIES</h4>
+                </td>
+              </tr>
+              <tr>
+                <td>General Safety &amp; Precautions</td>
+              </tr>
+              <tr>
+                <td>Description of RO Plant</td>
+              </tr>
+              <tr>
+                <td>Membrane Working &amp; Process</td>
+              </tr>
+              <tr>
+                <td>
+                  <h4>PRESTART UP</h4>
+                </td>
+              </tr>
+              <tr>
+                <td>Important Instruction</td>
+              </tr>
+              <tr>
+                <td>Correction Tables</td>
+              </tr>
+              <tr>
+                <td>Knowing your RO Plant</td>
+              </tr>
+              <tr>
+                <td>Knowing your starter control box</td>
+              </tr>
+              <tr>
+                <td>
+                  <h4>STARTING OF RO UNIT</h4>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td>Installation Checks &amp; Requirements</td>
+              </tr>
+              <tr valign="middle">
+                <td>
+                  <h4>OPERATING INSTRUCTION</h4>
+                </td>
+              </tr>
+              <tr valign="middle">
+                <td>Manual Operation </td>
+              </tr>
+              <tr valign="middle">
+                <td>Auto Operation</td>
+              </tr>
+              <tr valign="middle">
+                <td>Production Mode</td>
+              </tr>
+              <tr valign="middle">
+                <td>Membrane Rinse Mode</td>
+              </tr>
+              <tr valign="middle">
+                <td>CIP Mode</td>
+              </tr>
+              <tr valign="middle">
+                <td>Membrane Storage </td>
+              </tr>
+              <tr valign="middle">
+                <td>Sand Filter back wash &amp; Rinsing</td>
+              </tr>
+              <tr valign="middle">
+                <td>
+                  <h4>TROUBLE SHOOTING</h4>
+>>>>>>> c4f46c4 (Concise one file)
                 </td>
               </tr>
               <tr valign="middle">
                 <td>
+<<<<<<< HEAD
                   <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-18&quot;);">Installation Checks &amp; Requirements</a></td>
               </tr>
               <tr valign="middle">
                 <td>
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-19&quot;);">OPERATING INSTRUCTION</a></h4>
+=======
+                  <h4>CONSUMABLE LIST</h4>
+>>>>>>> c4f46c4 (Concise one file)
                 </td>
               </tr>
               <tr valign="middle">
                 <td>
+<<<<<<< HEAD
                   <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-20&quot;);">Manual Operation</a></td>
               </tr>
               <tr valign="middle">
@@ -174,22 +251,34 @@ width="758">
                 <td>
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-39&quot;);">TROUBLE SHOOTING</a></h4>
+=======
+                  <h4>MAINTENANCE</h4>
+>>>>>>> c4f46c4 (Concise one file)
                 </td>
               </tr>
               <tr valign="middle">
                 <td>
+<<<<<<< HEAD
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-40&quot;);">CONSUMABLE LIST</a></h4>
+=======
+                  <h4>DRAWINGS</h4>
+>>>>>>> c4f46c4 (Concise one file)
                 </td>
               </tr>
               <tr valign="middle">
                 <td>
+<<<<<<< HEAD
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-41&quot;);">MAINTENANCE</a></h4>
+=======
+                  <h4>COMPREHENSIVE PART LIST (CPL)</h4>
+>>>>>>> c4f46c4 (Concise one file)
                 </td>
               </tr>
               <tr valign="middle">
                 <td>
+<<<<<<< HEAD
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-56&quot;);">DRAWINGS</a></h4>
                 </td>
@@ -204,6 +293,9 @@ width="758">
                 <td>
                   <h4>
                     <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-58&quot;);">PART INDENTIFICATION LIST (PIL)</a></h4>
+=======
+                  <h4>PART INDENTIFICATION LIST (PIL)</h4>
+>>>>>>> c4f46c4 (Concise one file)
                 </td>
               </tr>
             </tbody>
@@ -2181,8 +2273,12 @@ width="758">
       <section id="KNOWING YOUR RO PLANT" level="3">
         <title id="KNOWING YOUR RO PLANT">KNOWING YOUR RO PLANT</title>
         <content>
+<<<<<<< HEAD
           <para>
             <a onclick="javascript:parent.showPDF(&quot;../Author/Contents/SOLAS_MARINE/NSWRO-40TPD/Technical_Manual/Images/PIPING_AND_INSTRUMENTATION_DIAGRAM_1.pdf&quot;);" actuate="user">Refer P&amp;I; Diagram</a> VEPL/22-23/SMR-019 REV.01.</para
+=======
+          <para>Refer P&amp;I; Diagram VEPL/22-23/SMR-019 REV.01.</para
+>>>>>>> c4f46c4 (Concise one file)
 >
           <para>
             <table frame="box" rules="all">
@@ -4125,7 +4221,11 @@ width="758">
             <h6>Connect Pipes lines as below</h6>
           </para>
           <para>
+<<<<<<< HEAD
             <a onclick="javascript:parent.showPDF(&quot;../Author/Contents/SOLAS_MARINE/NSWRO-40TPD/Technical_Manual/Images/PIPING_AND_INSTRUMENTATION_DIAGRAM_1.pdf&quot;);" actuate="user">Refer P&amp;ID;</a>:
+=======
+            Refer P&amp;ID;:
+>>>>>>> c4f46c4 (Concise one file)
             VEPL/22-23/SMR-019 REV.01.
           </para>
           <para>
@@ -5414,9 +5514,16 @@ rules="all" width="895">
                   <para>Check the bottle load, reload or replace the bottle.</para
 >
                   <para>
+<<<<<<< HEAD
                     See checking the Pulsation Dampener inflation. Refer <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-49&quot;);">page no.37</a>
                   </para>
                   <para>Stop the plant and repair. See <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-51&quot;);">page no.39</a></para
+=======
+                    See checking the Pulsation Dampener inflation. Refer page
+                    no.37
+                  </para>
+                  <para>Stop the plant and repair. See page no.39</para
+>>>>>>> c4f46c4 (Concise one file)
 >
                 </td>
               </tr>
@@ -5438,6 +5545,7 @@ rules="all" width="895">
                   <para>Refill up to the mark.</para>
                   <para>
                     Change the
+<<<<<<< HEAD
                     oil. See <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-44&quot;);">page no.35</a>
                   </para>
                   <para>
@@ -5447,6 +5555,17 @@ rules="all" width="895">
                   <para>
                     Replace the valves and seals
                     of the HP pump according to  <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-51&quot;);">page no.39</a>,
+=======
+                    oil. See page no.35
+                  </para>
+                  <para>
+                    Replace the valves and seals of the
+                    HP pump. See page no.39.
+                  </para>
+                  <para>
+                    Replace the valves and seals
+                    of the HP pump according to page no.39,
+>>>>>>> c4f46c4 (Concise one file)
                   </para>
                 </td>
               </tr>
@@ -5481,7 +5600,11 @@ rules="all" width="895">
                 </td>
                 <td valign="top">
                   Replace the valves and seals of the HP pump according
+<<<<<<< HEAD
                   to  <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-51&quot;);">page no.39</a>.
+=======
+                  to page no.39.
+>>>>>>> c4f46c4 (Concise one file)
                 </td>
               </tr>
               <tr valign="top">
@@ -5514,7 +5637,11 @@ rules="all" width="895">
                   </para>
                   <para>
                     Undertake cleaning of
+<<<<<<< HEAD
                     the membranes. See <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-28&quot;);">page no.24</a>.
+=======
+                    the membranes. See page no.24.
+>>>>>>> c4f46c4 (Concise one file)
                   </para>
                 </td>
               </tr>
@@ -6717,7 +6844,11 @@ rules="all">
                 Prepare 2.5 liter of new oil according to the range model and
                 fill the oil pan
               </li>
+<<<<<<< HEAD
               <li>(See <a href="#" id="TopicID" onclick="javascript:parent.treeID(&quot;Page-44&quot;);">page no.35</a>)</li>
+=======
+              <li>(See page no.35)</li>
+>>>>>>> c4f46c4 (Concise one file)
             </ul>
           </para>
         </content>
@@ -10010,8 +10141,12 @@ rules="all">
                     <h6>SR.NO</h6>
                   </td>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>DESCRIPTION</h6
 >
+=======
+                    <h6>DESCRIPTION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                 </tr>
                 <tr>
@@ -10048,6 +10183,7 @@ rules="all">
                 </tr>
                 <tr>
                   <td align="center" valign="top">9</td>
+<<<<<<< HEAD
                   <td align="left" valign="top">BAG FILTER ASSEMBLY</td>
                 </tr>
                 <tr>
@@ -10084,6 +10220,40 @@ rules="all">
                 </tr>
                 <tr>
                   <td align="center" valign="top">18</td>
+=======
+                  <td align="left" valign="top">RO PLANT</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">10</td>
+                  <td align="left" valign="top">HP PUMP ASSEMBLY</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">11</td>
+                  <td align="left" valign="top">HP PUMP SPARE PARTS</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">12</td>
+                  <td align="left" valign="top">MEMBRANE ASSEMBLY</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">13</td>
+                  <td align="left" valign="top">UV FILTER ASSEMBLY</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">14</td>
+                  <td align="left" valign="top">FRESH WATER PUMP ASSEMBLY</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">15</td>
+                  <td align="left" valign="top">SECTIONAL VIEW WITH PART LIST-F W PUMP</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">16</td>
+                  <td align="left" valign="top">DOSING PUMP SPARE PARTS</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">17</td>
+>>>>>>> c4f46c4 (Concise one file)
                   <td align="left" valign="top">
                     ELECTRICAL CONTROL PANEL SPARE PARTS
                     LIST
@@ -10104,8 +10274,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="179"/>
@@ -10115,6 +10289,7 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -10125,6 +10300,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -10350,8 +10534,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="143"/>
@@ -10361,6 +10549,7 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -10371,6 +10560,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -10526,6 +10724,7 @@ rules="all">
           <para>
             <table frame="box" rules="all">
               <colgroup>
+<<<<<<< HEAD
                 <col width="142"/>
                 <col width="159"/>
                 <col width="203"/>
@@ -10543,6 +10742,25 @@ rules="all">
                     <h6>SPECIFICATION</h6>
                   </td>
                   <td align="left" valign="top">
+=======
+                <col width="81"/>
+                <col width="144"/>
+                <col width="280"/>
+                <col width="81"/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td align="center" valign="top">
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+                  </td>
+                  <td align="center" valign="top">
+>>>>>>> c4f46c4 (Concise one file)
                     <h6>QTY.</h6>
                   </td>
                 </tr>
@@ -10597,7 +10815,11 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">67</td>
                   <td align="left" valign="top">VLV. 1018</td>
+<<<<<<< HEAD
                   <td align="left" valign="top">B_all Valve ;j75 PVc-UtEPDM Memc</td>
+=======
+                  <td align="left" valign="top">B,an Va1ve _,75 PV1...-U1EPDM Mame</td>
+>>>>>>> c4f46c4 (Concise one file)
                   <td align="center" valign="top">1</td>
                 </tr>
                 <tr>
@@ -10618,12 +10840,15 @@ rules="all">
                   <td align="left" valign="top">Oil Filter Housing 20"L. r/J 4"</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+<<<<<<< HEAD
                 <tr>
                   <td align="center" valign="top">71</td>
                   <td align="left" valign="top">VLV.UPVC.1012</td>
                   <td align="left" valign="top">D32 Pressure Relief Valve</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+=======
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -10638,8 +10863,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="148"/>
@@ -10649,8 +10878,12 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>
@@ -10708,8 +10941,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="159"/>
@@ -10722,12 +10959,19 @@ rules="all">
                     <h6>SR.NO</h6>
                   </td>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>PART NO</h6
 >
                   </td>
                   <td align="center" valign="top">
                     <h6>DESCRIPTION</h6
 >
+=======
+                    <h6>PART NO</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>DESCRIPTION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY</h6>
@@ -10777,8 +11021,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all" width="845">
+=======
+            <table frame="box" rules="all" width="845">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="10*"/>
                 <col width="30*"/>
@@ -11070,8 +11318,12 @@ rules="all" width="845">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all" width="788">
+=======
+            <table frame="box" rules="all" width="788">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="14*"/>
                 <col width="23*"/>
@@ -11106,9 +11358,21 @@ rules="all" width="788">
                   <td align="center">1</td>
                 </tr>
                 <tr>
+<<<<<<< HEAD
                   <td align="center" valign="top">3</td>
                   <td valign="top">FL T.CAR.103</td>
                   <td>Carbon Filter Element 1 0" Micron 1 0" Ion 4"Dia</td>
+=======
+                  <td align="center">3</td>
+                  <td>FLT.CAR.141</td>
+                  <td>5 Micron 20" Long</td>
+                  <td align="center">1</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">4</td>
+                  <td valign="top">FLT.HSG.1001</td>
+                  <td>Cartridge Filter Housing 1 O" Long 4" Dia</td>
+>>>>>>> c4f46c4 (Concise one file)
                   <td align="center">1</td>
                 </tr>
               </tbody>
@@ -11125,8 +11389,12 @@ rules="all" width="788">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all" width="788">
+=======
+            <table frame="box" rules="all" width="788">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="14*"/>
                 <col width="23*"/>
@@ -11166,6 +11434,15 @@ rules="all" width="788">
                   <td>Cartridge Filter Element 5 Micron 20" long 4" Dia</td>
                   <td align="center">1</td>
                 </tr>
+<<<<<<< HEAD
+=======
+                <tr>
+                  <td align="center" valign="top">4</td>
+                  <td valign="top">FLT.HSG.140</td>
+                  <td>Cartridge Filter Housing 20" long 4" Dia</td>
+                  <td align="center">1</td>
+                </tr>
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -11180,8 +11457,12 @@ rules="all" width="788">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all" width="788">
+=======
+            <table frame="box" rules="all" width="788">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="14*"/>
                 <col width="23*"/>
@@ -11221,6 +11502,15 @@ rules="all" width="788">
                   <td>Cartridge Filter Element 25 Micron 20" long 4" Dia</td>
                   <td align="center">1</td>
                 </tr>
+<<<<<<< HEAD
+=======
+                <tr>
+                  <td align="center" valign="top">4</td>
+                  <td valign="top">FLT.HSG.140</td>
+                  <td>Cartridge Filter Housing 20" long 4" Dia</td>
+                  <td align="center">1</td>
+                </tr>
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -11235,8 +11525,12 @@ rules="all" width="788">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all" width="788">
+=======
+            <table frame="box" rules="all" width="788">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="14*"/>
                 <col width="23*"/>
@@ -11276,6 +11570,7 @@ rules="all" width="788">
                   <td>Cartridge Oil Filter</td>
                   <td align="center">1</td>
                 </tr>
+<<<<<<< HEAD
               </tbody>
             </table>
           </para>
@@ -11323,6 +11618,12 @@ rules="all" width="788">
                   <td align="center">3</td>
                   <td>BAG.FLT.100</td>
                   <td>Basket for Clary-T Bag Filter</td>
+=======
+                <tr>
+                  <td align="center" valign="top">4</td>
+                  <td valign="top">FLT.HSG.140</td>
+                  <td>Oil Adsorbent Filter Housing 20" long 4" Dia</td>
+>>>>>>> c4f46c4 (Concise one file)
                   <td align="center">1</td>
                 </tr>
               </tbody>
@@ -11350,6 +11651,7 @@ rules="all" width="788">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -11364,6 +11666,18 @@ rules="all" width="788">
                   <td align="center" valign="top">
                     <h6>QTY.</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>QTY.</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                 </tr>
                 <tr>
@@ -11516,12 +11830,15 @@ rules="all" width="788">
                   <td align="left" valign="top">RO Plant Main Mounts</td>
                   <td align="center" valign="top">3</td>
                 </tr>
+<<<<<<< HEAD
                 <tr>
                   <td align="center" valign="top">102</td>
                   <td align="left" valign="top">INS.3010</td>
                   <td align="left" valign="top">Limit Switch</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+=======
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -11532,18 +11849,27 @@ rules="all" width="788">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="172"/>
                 <col width="79"/>
                 <col width="211"/>
+<<<<<<< HEAD
                 <col width="231"/>
+=======
+                <col width="81"/>
+>>>>>>> c4f46c4 (Concise one file)
               </colgroup>
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -11554,6 +11880,16 @@ rules="all">
                   <td align="center" colspan="2" valign="top">
                     <h6
 >SPECIFICATION</h6>
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" colspan="2" valign="top">
+                    <h6>SPECIFICATION</h6
+>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -11581,8 +11917,13 @@ rules="all">
                   <td align="center" valign="top">28</td>
                   <td align="left" valign="top">VLV. 1019</td>
                   <td align="left" colspan="2" valign="top">
+<<<<<<< HEAD
                     Ball
                     Valve 375 PVC-U/EPDM                   Metric
+=======
+                    Ball Valve 375 PVC-U/EPDM
+                    Metric
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1</td>
                 </tr>
@@ -11710,8 +12051,13 @@ rules="all">
                   <td align="center" valign="top">49</td>
                   <td align="left" valign="top">FLT.HSG. 140</td>
                   <td align="left" colspan="2" valign="top">
+<<<<<<< HEAD
                     Cartridge
                     Filter Housing                   2r"
+=======
+                    Cartridge Filter Housing
+                    2r"
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1</td>
                 </tr>
@@ -11719,8 +12065,13 @@ rules="all">
                   <td align="center" valign="top">50</td>
                   <td align="left" valign="top">INS.LP.3002</td>
                   <td align="left" colspan="2" valign="top">
+<<<<<<< HEAD
                     Pressure
                     Transmitter 0-6                   Bar
+=======
+                    Pressure Transmitter 0-6
+                    Bar
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1</td>
                 </tr>
@@ -11728,8 +12079,13 @@ rules="all">
                   <td align="center" valign="top">51</td>
                   <td align="left" valign="top">VLV. 1006</td>
                   <td align="left" colspan="2" valign="top">
+<<<<<<< HEAD
                     Check
                     Valve 562 PVC-U/EPDM                   d25DN20
+=======
+                    Check Valve 562 PVC-U/EPDM
+                    d25DN20
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1</td>
                 </tr>
@@ -11743,18 +12099,30 @@ rules="all">
                   <td align="center" valign="top">53</td>
                   <td align="left" valign="top">FLT.HSG. 140</td>
                   <td align="left" colspan="2" valign="top">
+<<<<<<< HEAD
                     Cartridge
                     Filter Housing                   2r"
                   </td>
                   <td align="center" valign="top">1</td>
                   <?Pub Caret -1?>
+=======
+                    Cartridge Filter Housing
+                    2r"
+                  </td>
+                  <td align="center" valign="top">1</td>
+>>>>>>> c4f46c4 (Concise one file)
                 </tr>
                 <tr>
                   <td align="center" valign="top">54</td>
                   <td align="left" valign="top">VLV. 1005</td>
                   <td align="left" colspan="2" valign="top">
+<<<<<<< HEAD
                     Check
                     Valve 562 PVC-U/EPDM                   d40DN32
+=======
+                    Check Valve 562 PVC-U/EPDM
+                    d40DN32
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1</td>
                 </tr>
@@ -11764,6 +12132,7 @@ rules="all">
                   <td align="left" colspan="2" valign="top">Flange f/s PVC-U PN16 d40DN32</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+<<<<<<< HEAD
                 <tr>
                   <td align="center" valign="top">106</td>
                   <td align="left" valign="top">VL V.UPVC.177</td>
@@ -11779,6 +12148,8 @@ rules="all">
                   </td>
                   <td align="center" valign="top">1</td>
                 </tr>
+=======
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -11789,8 +12160,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="177"/>
@@ -11803,12 +12178,19 @@ rules="all">
                     <h6>SR.NO</h6>
                   </td>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>PART NO.</h6
 >
                   </td>
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td valign="top">
                     <h6>QTY.</h6>
@@ -11970,6 +12352,7 @@ rules="all">
                   <td align="left" valign="top">Tank Air Brether</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+<<<<<<< HEAD
                 <tr>
                   <td align="center" valign="top">108</td>
                   <td align="left" valign="top">FTT.360</td>
@@ -12018,6 +12401,8 @@ rules="all">
                   </td>
                   <td valign="top">1</td>
                 </tr>
+=======
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -12028,8 +12413,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="166"/>
@@ -12039,6 +12428,7 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -12049,6 +12439,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -12174,6 +12573,7 @@ rules="all">
                   <td>HP Pump Mount</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+<<<<<<< HEAD
                 <tr>
                   <td align="center" valign="top">103</td>
                   <td align="left" valign="top">INS.3006.1</td>
@@ -12216,6 +12616,8 @@ rules="all">
                   <td>Suction hose 0.5 Mtr Lg</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+=======
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -12230,8 +12632,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="155"/>
@@ -12241,6 +12647,7 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -12251,6 +12658,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -12346,12 +12762,15 @@ rules="all">
                   <td align="left" valign="top">HP Pump Delivery ST Fitting</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+<<<<<<< HEAD
                 <tr>
                   <td align="center" valign="top">16</td>
                   <td align="left" valign="top">PLY.BLT.300</td>
                   <td align="left" valign="top">Timing Belt</td>
                   <td align="center" valign="top">1</td>
                 </tr>
+=======
+>>>>>>> c4f46c4 (Concise one file)
               </tbody>
             </table>
           </para>
@@ -12367,8 +12786,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="262"/>
@@ -12378,8 +12801,13 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" colspan="4" valign="top">
+<<<<<<< HEAD
                     HP
                     CAT PUMP-PMP.HP.CAT.102                   KITS
+=======
+                    HP CAT PUMP-PMP.HP.CAT.102
+                    KITS
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                 </tr>
                 <tr>
@@ -12404,8 +12832,12 @@ rules="all">
             </table>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="342"/>
@@ -12474,8 +12906,12 @@ rules="all">
             </table>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="307"/>
@@ -12532,8 +12968,12 @@ rules="all">
             </table>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="394"/>
@@ -12589,8 +13029,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">9</td>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     Plug drain (1/4”
                     x 19 BSP) with O                   ring
+=======
+                    Plug drain (1/4” x 19 BSP) with O
+                    ring
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1</td>
                   <td align="center" valign="top">PMP.HP.CAT.102-9</td>
@@ -12719,8 +13164,12 @@ rules="all">
             </table>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col align="center" width="393"/>
@@ -12764,7 +13213,11 @@ rules="all">
                   <td align="center" valign="top">
                     3
                   </td>
+<<<<<<< HEAD
                   <td align="center" rowspan="2" valign="top">PMP.HP.CAT.102-31</td>
+=======
+                  <td rowspan="2" align="center" valign="top">PMP.HP.CAT.102-31</td>
+>>>>>>> c4f46c4 (Concise one file)
                 </tr>
                 <tr>
                   <td align="center" valign="top">Retainer LPS rear</td>
@@ -12898,8 +13351,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="105"/>
                 <col width="193"/>
@@ -12909,6 +13366,7 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -12919,6 +13377,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -12952,8 +13419,13 @@ rules="all">
                   <td align="center" valign="top">5</td>
                   <td align="left" valign="top">MBR.HOS.367.1</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Delrin End Plug 1/2``
                     Threaded with                   1/4" Topped
+=======
+                    Delrin End Plug 1/2`` Threaded with
+                    1/4" Topped
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">02</td>
                 </tr>
@@ -12977,8 +13449,13 @@ rules="all">
                 </tr>
                 <tr>
                   <td align="center" valign="top">9</td>
+<<<<<<< HEAD
                   <td align="left" valign="top">FTT.1152</td>
                   <td align="left" valign="top">1 / 4" threaded elbow x 10mm</td>
+=======
+                  <td align="left" valign="top">FTT.360</td>
+                  <td align="left" valign="top">Connector Elbow 3/8 X  1OMM</td>
+>>>>>>> c4f46c4 (Concise one file)
                   <td align="center" valign="top">20</td>
                 </tr>
                 <tr>
@@ -12991,8 +13468,13 @@ rules="all">
                   <td align="center" valign="top">11</td>
                   <td align="left" valign="top">FTT.ORING.426</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Membrane End Plug
                     Outer 0 Ring 91.44                   X 5.33 MM
+=======
+                    Membrane End Plug Outer 0 Ring 91.44
+                    X 5.33 MM
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">20</td>
                 </tr>
@@ -13000,8 +13482,13 @@ rules="all">
                   <td align="center" valign="top">12</td>
                   <td align="left" valign="top">FTT.ORING.427</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Membrane End Plug
                     Inner 0 Ring 18 X                   2.62 MM
+=======
+                    Membrane End Plug Inner 0 Ring 18 X
+                    2.62 MM
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">20</td>
                 </tr>
@@ -13009,8 +13496,13 @@ rules="all">
                   <td align="center" valign="top">13</td>
                   <td align="left" valign="top">MBR.HOS.367.4</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Delrin End Plug 1/2"
                     Threaded with 3/8"                   Tapped
+=======
+                    Delrin End Plug 1/2" Threaded with 3/8"
+                    Tapped
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">02</td>
                 </tr>
@@ -13026,8 +13518,12 @@ rules="all">
                   </td>
                   <td align="left" valign="top">MBR.HOS.367.2 </td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Delrin End Plug Plain
                     with 1/4" Tapped
+=======
+                    Delrin End Plug Plain with 1/4" Tapped
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     08
@@ -13037,8 +13533,13 @@ rules="all">
                   <td align="center" valign="top">16</td>
                   <td align="left" valign="top">FTT.ORING.427</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Membrane P ug lnterconnector
                     0 Ring                   18 X 2.62 MM
+=======
+                    Membrane P ug lnterconnector 0 Ring
+                    18 X 2.62 MM
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">16</td>
                 </tr>
@@ -13056,8 +13557,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="105"/>
                 <col width="193"/>
@@ -13067,6 +13572,7 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -13077,6 +13583,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -13156,8 +13671,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="105"/>
                 <col width="193"/>
@@ -13167,6 +13686,7 @@ rules="all">
               <tbody>
                 <tr>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>SR. NO.</h6
 >
                   </td>
@@ -13177,6 +13697,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>SPECIFICATION</h6
 >
+=======
+                    <h6>SR. NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO.</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>SPECIFICATION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY.</h6>
@@ -13209,8 +13738,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col align="center" width="79"/>
                 <col width="190"/>
@@ -13222,12 +13755,19 @@ rules="all">
                     <h6>SR NO</h6>
                   </td>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>PART NO</h6
 >
                   </td>
                   <td align="center" valign="top">
                     <h6>DESCRIPTION</h6
 >
+=======
+                    <h6>PART NO</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>DESCRIPTION</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                 </tr>
                 <tr>
@@ -13324,8 +13864,13 @@ rules="all">
                   <td align="center" valign="top">26e</td>
                   <td align="left" valign="top">CDLF-2-4-26e</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     OVAL FLANGE TYPE
                     -INLET &amp; OUTLET                   CHAMBER
+=======
+                    OVAL FLANGE TYPE -INLET &amp; OUTLET
+                    CHAMBER
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                 </tr>
                 <tr>
@@ -13457,10 +14002,15 @@ rules="all">
         <title>DOSING PUMP SPARE PARTS DETAILS</title>
         <content>
           <para>
+<<<<<<< HEAD
             <h6>
               DOSING PUMP MAINTENANCE KIT
               PART NO. DOS-100-3
             </h6>
+=======
+            <h6>DOSING PUMP MAINTENANCE KIT PART NO. DOS-100-3</h6
+>
+>>>>>>> c4f46c4 (Concise one file)
           </para>
           <para>
             <figure>
@@ -13468,8 +14018,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="75"/>
                 <col align="center" width="275"/>
@@ -13556,8 +14110,12 @@ rules="all">
             </figure>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all" width="512">
+=======
+            <table frame="box" rules="all" width="512">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="13*"/>
                 <col width="17*"/>
@@ -13700,8 +14258,12 @@ rules="all" width="512">
             </table>
           </para>
           <para>
+<<<<<<< HEAD
             <table frame="box"
 rules="all">
+=======
+            <table frame="box" rules="all">
+>>>>>>> c4f46c4 (Concise one file)
               <colgroup>
                 <col width="81"/>
                 <col width="370"/>
@@ -13715,6 +14277,7 @@ rules="all">
                     <h6>SL.NO</h6>
                   </td>
                   <td align="center" valign="top">
+<<<<<<< HEAD
                     <h6>DESCRIPTION</h6
 >
                   </td>
@@ -13725,6 +14288,15 @@ rules="all">
                   <td align="center" valign="top">
                     <h6>PART NO</h6
 >
+=======
+                    <h6>DESCRIPTION</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>DESIGNATION</h6>
+                  </td>
+                  <td align="center" valign="top">
+                    <h6>PART NO</h6>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">
                     <h6>QTY</h6>
@@ -13740,8 +14312,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">2</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Triple pole On-Off
                     rotary switch rated                   63A
+=======
+                    Triple pole On-Off rotary switch rated
+                    63A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">0a1</td>
                   <td align="left" valign="top">ELP.PNL.1036</td>
@@ -13750,8 +14327,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">3</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Triple pole three
                     way without off rotary                   switch rated 6A
+=======
+                    Triple pole three way without off rotary
+                    switch rated 6A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">b1</td>
                   <td align="left" valign="top">ELP.PNL.1037</td>
@@ -13760,8 +14342,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">4</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Shrouded pushbutton
                     Red colour with                   1NC contact
+=======
+                    Shrouded pushbutton Red colour with
+                    1NC contact
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">b2,4b4</td>
                   <td align="left" valign="top">ELP.PNL.1038</td>
@@ -13770,8 +14357,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">5</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Shrouded pushbutton
                     Yellow colour with                   1no contact
+=======
+                    Shrouded pushbutton Yellow colour with
+                    1no contact
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">B3</td>
                   <td align="left" valign="top">ELP.PNL.1039</td>
@@ -13780,8 +14372,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">6</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Shrouded pushbutton
                     Green colour with                   1no contact
+=======
+                    Shrouded pushbutton Green colour with
+                    1no contact
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1b3,2b3,3b3,4b3</td>
                   <td align="left" valign="top">ELP.PNL.1040</td>
@@ -13804,8 +14401,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">9</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Double pole On-Off
                     rotary switch rated                   6A
+=======
+                    Double pole On-Off rotary switch rated
+                    6A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">B4</td>
                   <td align="left" valign="top">ELP.PNL.1041</td>
@@ -13814,8 +14416,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">10</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Contactor rated 9A,
                     220V 50/60Hz AC                   coil with 1no+1nc
+=======
+                    Contactor rated 9A, 220V 50/60Hz AC
+                    coil with 1no+1nc
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">2c1</td>
                   <td align="left" valign="top">ELP.PNL.1042</td>
@@ -13824,8 +14431,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">11</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Contactor rated 12A,
                     220V 50/60Hz AC                   coil with 1no+1nc
+=======
+                    Contactor rated 12A, 220V 50/60Hz AC
+                    coil with 1no+1nc
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1c1</td>
                   <td align="left" valign="top">ELP.PNL.1083</td>
@@ -13841,8 +14453,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">13</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Contactor rated 25A,
                     220V 50/60Hz AC                   coil with 1no+1nc
+=======
+                    Contactor rated 25A, 220V 50/60Hz AC
+                    coil with 1no+1nc
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">3c1,3c2,3c3</td>
                   <td align="left" valign="top">ELP.PNL.1043</td>
@@ -13851,8 +14468,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">14</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Pneumatic ON delay
                     timer range 0.1-                   30s with 1no+1nc
+=======
+                    Pneumatic ON delay timer range 0.1-
+                    30s with 1no+1nc
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">e1</td>
                   <td align="left" valign="top">ELP.PNL.1045</td>
@@ -13861,12 +14483,20 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">15</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     <para>
                       24V DC Relays
                       2 C/O
                     </para>
                     <para>Varistor + Green LED</para>
                     <para>Plastic Maintaining Clamp</para>
+=======
+                    <para>24V DC Relays 2 C/O</para>
+                    <para
+>Varistor + Green LED</para>
+                    <para>Plastic Maintaining Clamp</para
+>
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1pd1 to 1pd8</td>
                   <td align="left" valign="top">ELP.PNL.1046</td>
@@ -13875,8 +14505,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">16</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     24V DC Relays 4 C/O
                     with LED and Base                   along with clamp, socket
+=======
+                    24V DC Relays 4 C/O with LED and Base
+                    along with clamp, socket
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">D1</td>
                   <td align="left" valign="top">ELP.PNL.1047</td>
@@ -13885,8 +14520,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">17</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Four Pole Miniature
                     Circuit Breaker                   rated 10A
+=======
+                    Four Pole Miniature Circuit Breaker
+                    rated 10A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">2e1</td>
                   <td align="left" valign="top">ELP.PNL.1049</td>
@@ -13895,8 +14535,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">18</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Four Pole Miniature
                     Circuit Breaker                   rated 16A
+=======
+                    Four Pole Miniature Circuit Breaker
+                    rated 16A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1e1</td>
                   <td align="left" valign="top">ELP.PNL.1084</td>
@@ -13905,8 +14550,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">19</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Four Pole Miniature
                     Circuit Breaker                   rated 40A
+=======
+                    Four Pole Miniature Circuit Breaker
+                    rated 40A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">3e1</td>
                   <td align="left" valign="top">ELP.PNL.1050</td>
@@ -13915,8 +14565,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">20</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Electronic overcurrent
                     relay EOCR i-                   series,
+=======
+                    Electronic overcurrent relay EOCR i-
+                    series,
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1e2,2e2,3e2</td>
                   <td align="left" valign="top">ELP.PNL.1051</td>
@@ -13925,8 +14580,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">21</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     PTC Thermistor relay
                     Aux supply 24V                   DC
+=======
+                    PTC Thermistor relay Aux supply 24V
+                    DC
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1e3,2e3,3e3</td>
                   <td align="left" valign="top">ELP.PNL.1052</td>
@@ -13935,8 +14595,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">22</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Voltage Monitoring
                     Relay, 3Ph 208..480V                   AC
+=======
+                    Voltage Monitoring Relay, 3Ph 208..480V
+                    AC
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">Oe1</td>
                   <td align="left" valign="top">ELP.PNL.1053</td>
@@ -13945,8 +14610,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">23</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Triple Pole Miniature
                     Circuit Breaker                   rated 6A
+=======
+                    Triple Pole Miniature Circuit Breaker
+                    rated 6A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">e1</td>
                   <td align="left" valign="top">ELP.PNL.1054</td>
@@ -13955,8 +14625,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">24</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Double Pole Miniature
                     Circuit Breaker                   rated 6A
+=======
+                    Double Pole Miniature Circuit Breaker
+                    rated 6A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">e2</td>
                   <td align="left" valign="top">ELP.PNL.1055</td>
@@ -13965,8 +14640,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">25</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Fuse terminal block
                     6A fuse link of                   1A
+=======
+                    Fuse terminal block 6A fuse link of
+                    1A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">Oe3,oe4,oe5</td>
                   <td align="left" valign="top">ELP.PNL.1056</td>
@@ -13975,8 +14655,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">26</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Fuse terminal block
                     6A fuse link of                   6A
+=======
+                    Fuse terminal block 6A fuse link of
+                    6A
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">Oe2</td>
                   <td align="left" valign="top">ELP.PNL.1057</td>
@@ -13985,8 +14670,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">27</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Indicating lamp integral
                     LED Amber colour,                   230V AC
+=======
+                    Indicating lamp integral LED Amber colour,
+                    230V AC
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">h1</td>
                   <td align="left" valign="top">ELP.PNL.1058</td>
@@ -13995,8 +14685,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">28</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Indicating lamp integral
                     LED Green colour,                   230V AC
+=======
+                    Indicating lamp integral LED Green colour,
+                    230V AC
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">1h1,2h1,3h1</td>
                   <td align="left" valign="top">ELP.PNL.1059</td>
@@ -14005,8 +14700,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">29</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Indicating lamp integral
                     LED Blue colour,                   230V AC
+=======
+                    Indicating lamp integral LED Blue colour,
+                    230V AC
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">h3</td>
                   <td align="left" valign="top">ELP.PNL.1060</td>
@@ -14015,8 +14715,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">30</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Indicating lamp integral
                     LED Blue colour,                   24V AC/DC
+=======
+                    Indicating lamp integral LED Blue colour,
+                    24V AC/DC
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">h2</td>
                   <td align="left" valign="top">ELP.PNL.1061</td>
@@ -14025,8 +14730,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">31</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Indicating lamp integral
                     LED Red colour,                   24V AC/DC
+=======
+                    Indicating lamp integral LED Red colour,
+                    24V AC/DC
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">h4</td>
                   <td align="left" valign="top">ELP.PNL.1085</td>
@@ -14035,8 +14745,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">32</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     Buzzer Cum Flasher
                     24V DC, Red Colour                   Lense
+=======
+                    Buzzer Cum Flasher 24V DC, Red Colour
+                    Lense
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">H2</td>
                   <td align="left" valign="top">ELP.PNL.1063</td>
@@ -14066,8 +14781,13 @@ rules="all">
                 <tr>
                   <td align="center" valign="top">36</td>
                   <td align="left" valign="top">
+<<<<<<< HEAD
                     5.7” Advanced Touchscreen
                     Backlit colour                   TFT LCD
+=======
+                    5.7” Advanced Touchscreen Backlit colour
+                    TFT LCD
+>>>>>>> c4f46c4 (Concise one file)
                   </td>
                   <td align="center" valign="top">u2</td>
                   <td align="left" valign="top">ELP.PNL.1068</td>
